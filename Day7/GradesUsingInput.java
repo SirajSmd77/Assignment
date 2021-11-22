@@ -37,17 +37,6 @@ public class GradesUsingInput {
 			else {
 				System.out.println("invalid");
 			}
-			
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
 	
 	
 	}
